@@ -1,56 +1,64 @@
-<!-- Banner -->
-<img src="https://i.imgur.com/J6efrLP.png" alt="Banner" />
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/YOUR_IMAGE.png" alt="Sandeep Kumar Banner" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
-<h3 align="center">🚀 Future Data Scientist | Machine Learning Enthusiast | Building the Future 🚀</h3>
+<h1 align="center">Hey 👋, I'm Sandeep Kumar</h1>
+<h3 align="center">🚀 Aspiring Data Scientist | Machine Learning Explorer | Future Innovator 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+about+Data+Science;Machine+Learning+Explorer;Deep+Learning+Believer;Let's+Innovate+together!+🚀" alt="Typing SVG">
+  <a href="https://github.com/SSandeepk2001">
+    <img src="https://komarev.com/ghpvc/?username=SSandeepk2001&label=Profile%20views&color=0e75b6&style=flat" alt="SSandeepk2001" />
+  </a>
+  <a href="https://linkedin.com/in/sandeep-kumar2001/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sandeepkumar9876202306@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎯 Aiming to innovate with AI, ML, and Data Science
-- 🛠️ Building skills with **Python**, **TensorFlow**, **SQL**, **Data Analysis**
-- 🤝 Always open for collaboration and exciting opportunities
-- 📫 Contact me: **sandeepkumar9876202306@gmail.com**
-
----
-
-## 🚀 My Tech Stack
+## 🛠️ Skills and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pandas,numpy,scikit-learn,sql,git" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pandas,numpy,scikit-learn,sql,git,jupyter" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SSandeepk2001&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SSandeepk2001&theme=radical&hide_border=true" />
-</p>
+## 📈 My GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SSandeepk2001&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SSandeepk2001&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SSandeepk2001&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SSandeepk2001&theme=radical&row=2&column=3" />
 </p>
 
 ---
 
-## 🌎 Let's Connect
+## 🌟 Featured Projects
+| Project | Tech Stack | Demo/Repo |
+|:--------|:-----------|:----------|
+| 🎯 Student Performance Predictor | Python, Scikit-Learn, Streamlit | [View Project](#) |
+| 🚀 Fake News Detection System | Python, NLP, Logistic Regression | [View Project](#) |
+| 📊 Sales Forecast Dashboard | Python, Plotly, Streamlit | [View Project](#) |
+
+---
+
+## 📬 Let's Connect!
 <p align="center">
-  <a href="mailto:sandeepkumar9876202306@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  <a href="https://linkedin.com/in/sandeep-kumar2001/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://www.linkedin.com/in/sandeep-kumar2001/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="mailto:sandeepkumar9876202306@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
-
-<!-- Footer Waves -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C9FF&height=200&section=footer"/>
