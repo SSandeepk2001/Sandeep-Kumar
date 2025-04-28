@@ -68,3 +68,53 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00C9FF&height=200&section=footer" />
 </p>
+
+
+# 🚀 Project Title
+
+> A short and catchy description about what this project does and who it's for.
+
+---
+
+## 📖 Table of Contents
+- [About](#-about)
+- [Technologies Used](#-technologies-used)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Screenshots](#-screenshots)
+- [License](#-license)
+- [Contact](#-contact)
+
+---
+
+## 🔥 About
+A brief description of your project, explaining:
+- What the project does
+- Why you built it
+- Any challenges you faced and how you overcame them
+
+Example:
+> "This project predicts student performance using machine learning algorithms based on study time, previous scores, and attendance."
+
+---
+
+## 🛠 Technologies Used
+- Python 🐍
+- Pandas 📊
+- Scikit-Learn 🤖
+- Streamlit 🌐
+- Matplotlib 📈
+
+---
+
+## 🏗️ Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/SSandeepk2001/project-name.git
+
+# Change into the directory
+cd project-name
+
+# Install the dependencies
+pip install -r requirements.txt
