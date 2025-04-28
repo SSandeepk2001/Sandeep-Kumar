@@ -1,13 +1,11 @@
-<!-- Animated Background -->
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="animated" width="800" />
-</div>
+<!-- Banner -->
+<img src="https://i.imgur.com/J6efrLP.png" alt="Banner" />
 
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
-<h3 align="center">🚀 Data Science Enthusiast | Machine Learning Explorer | Future Innovator 🚀</h3>
+<h3 align="center">🚀 Future Data Scientist | Machine Learning Enthusiast | Building the Future 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+Scientist+in+the+making...;Machine+Learning+Explorer...;Deep+Learning+Believer...;Let's+Innovate+together!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+about+Data+Science;Machine+Learning+Explorer;Deep+Learning+Believer;Let's+Innovate+together!+🚀" alt="Typing SVG">
 </p>
 
 ---
@@ -37,7 +35,7 @@
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SSandeepk2001&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SSandeepk2001&theme=radical" />
 </p>
 
 ---
