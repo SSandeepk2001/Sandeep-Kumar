@@ -54,7 +54,46 @@
 ---
 
 ## 💡 **Quick-Revision Cheat Sheet** (From My Resume)
-```python
+
 # Overfitting Fixes: Cross-validation, L2 Regularization
 # Metrics: F1 = 2*(Precision*Recall)/(Precision+Recall)
 # NLP Libs: NLTK, SpaCy, HuggingFace
+
+📫 Let’s Connect!
+<p align="left"> <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue&style=flat" /> </p> ```
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Hello+FAANG+Recruiters!;Let's+build+the+future+%F0%9F%9A%80)
+
+## 🌐 **My 3D Coding Activity**
+<p align="center">
+  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" alt="3D GitHub Contributions" width="100%"/>
+</p>
+
+name: Generate 3D Contribution Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: yourusername
+          svg_out_path: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+## 📊 **3D GitHub Stats**
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=yourusername&theme=radical&column=7&no-bg=true" alt="3D Stats" width="100%"/>
+</p>
